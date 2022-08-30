@@ -41,3 +41,9 @@ for(let i = 0; i < 5; i++) {
   console.log(i);
 }
 
+//文字列演算子
+alert("Hello" + "World"); //HelloWorld
+
+let str1 = "Hello";
+let str2 = "World!!";
+alert(str1 + str2); //HelloWorld!!
