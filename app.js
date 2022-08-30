@@ -21,3 +21,7 @@ let b =  6; //bに6を代入
 b -= 2; //b = b - 2と同じ
 console.log(b); //4
 
+let c = 6; //cに6を代入
+c *= 2; //c = c * 2と同じ
+console.log(c); //12
+
