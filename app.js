@@ -25,3 +25,19 @@ let c = 6; //cに6を代入
 c *= 2; //c = c * 2と同じ
 console.log(c); //12
 
+let d = 6; //dに6を代入
+d /= 2; //d = d /2と同じ
+console.log(d); //3
+
+let e = 6; //eに6を代入
+e %= 2; //e = e % 2と同じ
+console.log(e); //0
+
+//単項演算子
+
+//++(1ずつ足していく)
+for(let i = 0; i < 5; i++) {
+  //(iに0を初期値で定義 iが5より小さい間iに1ずつ足す)
+  console.log(i);
+}
+
